@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7A372FA62C52671D00E6EF45 /* ExploreViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A372FA52C52671D00E6EF45 /* ExploreViewModel.swift */; };
 		7A372FA82C5267B200E6EF45 /* ExploreService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A372FA72C5267B200E6EF45 /* ExploreService.swift */; };
+		7A372FAA2C5378CF00E6EF45 /* Regions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A372FA92C5378CF00E6EF45 /* Regions.swift */; };
 		7AA753712C48FE43004C209E /* AirbnbAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AA753702C48FE43004C209E /* AirbnbAppApp.swift */; };
 		7AA753732C48FE43004C209E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AA753722C48FE43004C209E /* ContentView.swift */; };
 		7AA753752C48FE44004C209E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AA753742C48FE44004C209E /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 /* Begin PBXFileReference section */
 		7A372FA52C52671D00E6EF45 /* ExploreViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreViewModel.swift; sourceTree = "<group>"; };
 		7A372FA72C5267B200E6EF45 /* ExploreService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreService.swift; sourceTree = "<group>"; };
+		7A372FA92C5378CF00E6EF45 /* Regions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Regions.swift; sourceTree = "<group>"; };
 		7AA7536D2C48FE43004C209E /* AirbnbApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AirbnbApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AA753702C48FE43004C209E /* AirbnbAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirbnbAppApp.swift; sourceTree = "<group>"; };
 		7AA753722C48FE43004C209E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				7AA753B42C4EDABC004C209E /* DeveloperPreview.swift */,
+				7A372FA92C5378CF00E6EF45 /* Regions.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -331,6 +334,7 @@
 				7AA7538D2C4903C5004C209E /* ListingItemView.swift in Sources */,
 				7AA753732C48FE43004C209E /* ContentView.swift in Sources */,
 				7A372FA62C52671D00E6EF45 /* ExploreViewModel.swift in Sources */,
+				7A372FAA2C5378CF00E6EF45 /* Regions.swift in Sources */,
 				7AA753AD2C4E6ED1004C209E /* WishlistsView.swift in Sources */,
 				7AA753B32C4E7771004C209E /* Listing.swift in Sources */,
 				7AA7538B2C49029F004C209E /* ExploreView.swift in Sources */,
